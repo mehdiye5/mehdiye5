@@ -9,7 +9,7 @@
 </a>
 <span>     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  </pre>
 
-<a href="https://www.hackerrank.com/@greg_mehdiyev" target="blank" padding-left="28">
+<a href="https://www.hackerrank.com/greg_mehdiyev" target="blank" padding-left="28">
 <img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="@greg_mehdiyev" height="200" width="360" />
 </a>
 </p>
