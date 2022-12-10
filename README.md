@@ -43,6 +43,16 @@
 
 <h1></h1>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdiye5&show_icons=true&locale=en&layout=compact" alt="mehdiye5" /></p>
+
+
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+
 <!--<h3 align="left">Languages and Tools:</h3> -->
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
@@ -93,7 +103,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a> 
-
+  <h5>Python | C | C++ | Bash | Matlab | Java | JavaScript | R </h5>  
 </p> 
 
 
@@ -123,7 +133,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
-
+  <h5>PyTorch | TensorFlow |  DeepNet | YOLO | RCNN | SSD | Transformers | BART | BERT | GPT | Word2Vec | NLTK | LSTM | GRU | HMM | Numpy | Pandas</h5>
+   
 </p> 
 
 
@@ -153,8 +164,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
-
-
+<h5>MySQL | PostgreSQL | Oracle | Cassandra | MongoDB |  AWS DynamoDB </h5>
+  
 </p> 
 
 
@@ -177,7 +188,8 @@
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
 </a>
-
+  <h5>Apache Hadoop | PySpark | ETL | Kafka | Entity Resolution</h5>
+  
 </p> 
 
 
@@ -195,7 +207,8 @@
 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-</a> 
+</a>
+  <h5>AWS EMR | AWS S3 | AWS Redshift | AWS Spectrum | AWS EC2 | AWS CLI | AWS EKS | Azure Databricks | Power BI </h5> 
 
 </p> 
 </span>
@@ -218,7 +231,8 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
-
+  <h5> React | Ajax | Istio | Grafana | Prometheus</h5>
+ 
 </p> 
 
 </span>
@@ -265,6 +279,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
+  <h5>NodeJS | Docker | Kubernetes | CI /CD | Gatling | Hive | Presto | Grafana | Istio</h5> 
 
 
 <!--
@@ -288,11 +303,18 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdiye5&show_icons=true&locale=en&layout=compact" alt="mehdiye5" /></p>
+<h1></h1>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiye5&show_icons=true&locale=en" alt="mehdiye5" /></p>
+<!--
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiye5&show_icons=true&locale=en" alt="mehdiye5" /></span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiye5&" alt="mehdiye5" /></p>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiye5&" alt="mehdiye5" /></span>
+-->
+<p display="none"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiye5&show_icons=true&locale=en" alt="mehdiye5" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiye5&" alt="mehdiye5" />
+
+
 
 
 <!--
