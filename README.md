@@ -311,7 +311,9 @@
 
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiye5&" alt="mehdiye5" /></span>
 -->
+<!--
 <p display="none"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiye5&show_icons=true&locale=en" alt="mehdiye5" /></p>
+-->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiye5&" alt="mehdiye5" />
 
 
