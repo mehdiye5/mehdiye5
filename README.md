@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif)](https://rishavchanda.io)
 <h1 align="center">Hi <img width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Greg</h1>
-<h3 align="center">A passionate Machine Learning/Software Engineer</h3>
+<h3 align="center">A passionate Machine Learning Engineer / Data Scientist</h3>
 
 <p align="center">
 
