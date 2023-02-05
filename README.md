@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/greg-h-mehdiyev-1422b533/" target="blank">
+<a href="https://www.linkedin.com/in/greg-h-mehdiyev-1422b533/" target="blank">
 <img align="center" src="https://www.ynovation.de/wordpress/wp-content/uploads/2018/07/Logo-2C-108px-TM.png" alt="https://www.linkedin.com/in/greg-h-mehdiyev-1422b533/" height="60" width="260" />
 </a>
 <span>     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  </pre>
