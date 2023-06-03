@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiye5&label=Profile%20views&color=0e75b6&style=flat" alt="mehdiye5" /> </p>
 
-- 🔭 I’m currently working on **CipherSniffer**
+- 🔭 I’m currently working on **Azure DP-100 Data Scientist Associate Certification**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
